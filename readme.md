@@ -51,7 +51,7 @@ Alternatively, if you prefer to clone the repository and run the script manually
 
 Here's what you can expect when you run **ANOM Optimizer**:
 
-![ANOM Optimizer Screenshot]([https://raw.githubusercontent.com/ThisisANOM/Hybla/master/Screenshot%20(34).png])
+![ANOM Optimizer Screenshot](https://raw.githubusercontent.com/ThisisANOM/Hybla/master/Screenshot%20(34).png)
 
 ## 📫 Contact
 

@@ -15,7 +15,6 @@ Welcome to **ANOM Optimizer**! This script is designed to help you optimize your
 
 - A Linux-based server (preferably Ubuntu/Debian).
 - Root access to run the script with `sudo`.
-- `Figlet` package (automatically installed by the script if not already present).
 
 ## 🚀 Installation & Usage
 

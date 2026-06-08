@@ -57,7 +57,7 @@ Here's what you can expect when you run **ANOM Optimizer**:
 
 If you have any questions, feel free to reach out:
 
-- Telegram: [t.me/MemoryOfNaengi](https://t.me/MemoryOfNaengi)
+- Telegram: [t.me/ANOMsLibrary](https://t.me/ANOMsLibrary)
 - GitHub: [github.com/ThisisANOM](https://github.com/ThisisANOM)
 
 ## ❤️ Contribute
